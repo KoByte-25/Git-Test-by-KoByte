@@ -12,4 +12,6 @@ header
 .p1
 {
     color: blue;
+    margin: 50px 20px;
+    padding: 10px 5px;
 }
